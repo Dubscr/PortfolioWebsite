@@ -152,7 +152,9 @@ export const portfolioNodes: PortfolioNodeData[] = [
         { label: "GitHub", url: "https://github.com/dubscr" },
         { label: "Itch.io", url: "https://dubscr.itch.io" },
         { label: "YouTube", url: "https://youtube.com/dubscr" },
-        { label: "Twitter", url: "https://x.com/DubscrYoutube" }
+        { label: "Twitter", url: "https://x.com/DubscrYoutube" },
+        { label: "Steam", url: "https://store.steampowered.com/search/?developer=Dubscr"},
+        { label: "Discord", url: "https://discord.gg/FMKwPxKTVF"}
       ],
     },
   },
