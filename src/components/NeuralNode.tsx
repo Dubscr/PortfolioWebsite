@@ -31,7 +31,7 @@ function NeuralNodeComponent({ data }: NodeProps<NeuralNodeData>) {
         y: view.visible ? 0 : 18,
       }}
       whileHover={{ scale: view.highlighted ? 1.13 : 1.08, y: -4 }}
-      transition={{ type: "spring", stiffness: 180, damping: 18 }}
+      transition={{ type: "spring", stiffness: 40, damping: 18 }}
       onClick={() => onFocus(view.node.id)}
     >
       <Handle type="target" position={Position.Top} className="node-handle" />
