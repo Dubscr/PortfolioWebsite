@@ -4,7 +4,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
   {
     id: "root",
     type: "category",
-    title: "Dubscr's Portfolio",
+    title: "Dubscr's Website",
     description: "Welcome to my digital portfolio!",
     color: "#7dd3fc",
     icon: "network",
@@ -17,8 +17,8 @@ export const portfolioNodes: PortfolioNodeData[] = [
     id: "games",
     parent: "root",
     type: "category",
-    title: "Games",
-    description: "My philosophy on games.",
+    title: "Game Dev",
+    description: "My philosophy on game dev.",
     color: "#EFDE0C",
     icon: "spark",
     content:{
@@ -89,7 +89,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     id: "youtube",
     parent: "root",
     type: "youtube",
-    title: "Videos",
+    title: "Video Creation",
     description: "Brief explanation of my past on YouTube.",
     color: "#47FF65",
     icon: "youtube",
