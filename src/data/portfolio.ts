@@ -73,7 +73,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     description: "This isn't really jazz, just thought it was a funny name. It is more of an electronic song than anything.",
     color: "#fb923c",
     icon: "sound",
-    content: { kind: "embed", url: "..\\..\\public\\jazz example.flac" },
+    content: { kind: "embed", url: "..\\..\\public\\jazzexample.flac" },
   },
   {
     id: "metal",
@@ -83,7 +83,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     description: "This was one of the songs I made for Midey's game 'Reclaim.'",
     color: "#fb923c",
     icon: "sound",
-    content: { kind: "embed", url: "..\\..\\public\\shorter trailer.wav" },
+    content: { kind: "embed", url: "..\\..\\public\\shortertrailer.wav" },
   },
   {
     id: "youtube",
