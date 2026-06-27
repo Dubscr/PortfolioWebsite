@@ -18,7 +18,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     parent: "root",
     type: "category",
     title: "Games",
-    description: "My philosiphy on games.",
+    description: "My philosophy on games.",
     color: "#EFDE0C",
     icon: "spark",
     content:{
