@@ -5,7 +5,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     id: "root",
     type: "category",
     title: "Dubscr's Portfolio",
-    description: "You are on the main node.",
+    description: "Welcome to my digital portfolio!",
     color: "#7dd3fc",
     icon: "network",
     content: {
@@ -23,7 +23,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     icon: "spark",
     content:{
       kind: "text",
-      body: "Gameplay loops always come first. A polished game with a gameplay loop that isn't fun, isn't a game!",
+      body: "I am a game developer with a couple games on steam. I believe that the gameplay loop always come first. A polished game with a gameplay loop that isn't fun, isn't a game I am interested in.",
     }
   },
     {
@@ -44,7 +44,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     parent: "games",
     type: "gallery",
     title: "Untitled Ghost Game",
-    description: "Free multiplayer 2D ghost hunting game that you can play with friends.",
+    description: "Free multiplayer 2D ghost hunting game that got over 150,000 downloads and took 2 years to make. Uses photon for networking.",
     color: "#7C47FF",
     icon: "spark",
     content: {
