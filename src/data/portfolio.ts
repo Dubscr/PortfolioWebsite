@@ -59,7 +59,7 @@ export const portfolioNodes: PortfolioNodeData[] = [
     title: "Music",
     description: "Some backstory about me being a musician.",
     color: "#0080ff",
-    icon: "play",
+    icon: "sound",
     content: {
       kind: "text",
       body: "I have been a musician since I was 11 years old. I make metal, electronic, and extremely varying genres of music. I've made soundtracks for my friends' games, as well as my own.",
